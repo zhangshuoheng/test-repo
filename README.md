@@ -6,7 +6,7 @@
 
 ```bash
 # 克隆仓库
-git clone git@github.com:zhangshuoheng/Git.git
+git clone git@github.com:zhangshuoheng/test-repo.git
 
 # 提交改动
 git add .
